@@ -8,7 +8,7 @@ The tutorials have an increasing complexity, from basic server connection to a c
 
 Specifically, the examples will showcase:
 
-* basic connection with optional protocol encryption
+* **basic connection with optional protocol encryption**
 * room management
 * buddy list management
 * game rooms and match-making
