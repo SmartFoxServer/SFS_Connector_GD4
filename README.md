@@ -25,5 +25,21 @@ The file is a **basic C# script** implementing the _Process method. Additionally
 To learn more about this template and how it is configured for establishing a connection and handling basic SmartFoxServer events, go to the online documentation and tutorials linked below.
 
 **SmartFoxServer Example Documentation**   
+
 http://docs2x.smartfoxserver.com/ExamplesGodot/connector
+
+This online documentation includes:
+* Field Declaration
+* Establishing a connection
+* Handling bacis events
+  - Connection event handler
+  - Login event handler
+  - Login Error event handler
+  - Connection Lost event handler
+* Notification Callback
+* HTTP Tunneling
+* Protocol Encryption
+
+  
+ and further **Resource Links**
 
