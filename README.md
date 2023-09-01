@@ -21,3 +21,6 @@ In order to setup and run the example, follow these steps:
 
 SmartFoxServer Example Documentation
 (http://docs2x.smartfoxserver.com/ExamplesGodot/connector)
+
+
+<img width="720" alt="connector-login" src="https://github.com/SmartFoxServer/SFS_Connector_GD4/assets/30838007/0def40f7-5d89-47b2-87b9-e5c4ae447bf9">
