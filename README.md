@@ -49,7 +49,7 @@ http://docs2x.smartfoxserver.com/ExamplesGodot/connector
 This online documentation includes:
 * Field Declaration
 * Establishing a connection
-* Handling bacis events
+* Handling basic events
   - Connection event handler
   - Login event handler
   - Login Error event handler
