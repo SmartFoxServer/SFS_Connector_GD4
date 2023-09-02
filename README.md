@@ -23,7 +23,7 @@ The example also features the logic needed to activate the **protocol cryptograp
 
 The Godot project consists of a single scene with two control nodes representing the initial login view and a generic main view acting as a placeholder for what comes after a successful login. On the login view the user can enter their name and hit the button to connect to SmartFoxServer and execute the login process.
  <p align="center"> 
-<img width="720" alt="connector-login" src="https://github.com/SmartFoxServer/SFS_Connector_GD4/assets/30838007/0def40f7-5d89-47b2-87b9-e5c4ae447bf9">
+<img width="720" alt="connector-login" src="https://www.piveclabs.com/connector-login.png">
  </p>
 The example features a single script component. A number of properties exposed in the Editor's Inspector panel allow configuring the connection parameters and API logging behavior.
 
