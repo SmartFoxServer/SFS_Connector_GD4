@@ -63,3 +63,7 @@ This online documentation includes:
 
 http://docs2x.smartfoxserver.com/ExamplesGodot/introduction
 
+ <p align="center"> 
+<img width="400" alt="connector-login" src="https://github.com/SmartFoxServer/SFS_Connector_GD4/assets/30838007/a8f025fb-5bc0-4ca6-8ce0-8ec808565303">
+ </p>
+
